@@ -24,12 +24,12 @@ From coding experiments to full production-ready tools, everything here reflects
 
 ## 📊 Stats & Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KHANHSF&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHANHSF&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KHANHSF&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KHANHSF&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHANHSF&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHANHSF&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
